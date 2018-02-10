@@ -1,0 +1,60 @@
+body{padding: 30px 30px 30px 30px;
+background-color:red;
+font-family: 'Roboto Slab', serif;
+}
+.selector ul li:hover {background-color: red;}
+.selector ul li:hover a {
+    color: #fff;
+}.social-links{
+    text-decoration: none;
+    color: inherit;
+}
+
+.body{font-family: 'Roboto Slab', serif;}
+
+.nav-search input{background-color:#000;
+margin-left:-30px;}
+
+.nav-search button{background-color:red;
+color:#fff;}
+
+.nav-search button:hover{background-color:#fff;
+color:red;}
+
+.selector ul li{background-color: black;
+width:30px;
+height:30px;
+border-radius:30px;
+text-align: center;
+color:white;}
+
+.selector ul li:hover {background-color: red;}
+
+.nav-bar ul li a{word-wrap: 15px;
+font-style: cursive;
+color:#afafaf;}
+
+.nav-bar ul li a:hover{color:red;
+text-decoration:none;}
+
+.content{margin-top:30px;}
+
+#carouselExampleIndicators img{
+	padding:20px;
+	height:auto;
+width:100%;}
+.asideElement{height:145px;
+width:225px;
+float:left;
+background-color: red;}
+.asideContent{background-color: green;}
+.service img{height:80px;
+width:80px;}
+
+.location {float:right;
+	padding-left: 0px;
+}
+
+.foot{float:left;}
+.temple{float:right;}
+
